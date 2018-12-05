@@ -1,11 +1,11 @@
 # ApkZiLXD
 Optimizar las aplicaciones .apk
 
-## Descargar https://github.com/Pericena/ApkZiLXD/blob/master/Descargar/ApkZiLXD.zip
+### Descargar https://github.com/Pericena/ApkZiLXD/blob/master/Descargar/ApkZiLXD.zip
 
-En programa usaremos zipalign.
+El programa que usaremos es zipalign.
 ## ¿Pero que es zipalign? 
-Zipalign es una herramienta que viene incluida en los SDK de Android desde Donut 1.6, pensada para optimizar los paquetes .apk adaptándolos a los requisitos óptimos del sistema Android. En Android, los datos almacenados dentro de archivos .apk son requeridos por multitud de
+- Zipalign es una herramienta que viene incluida en los SDK de Android desde Donut 1.6, pensada para optimizar los paquetes .apk adaptándolos a los requisitos óptimos del sistema Android. En Android, los datos almacenados dentro de archivos .apk son requeridos por multitud de
 procesos: el instalador leerá el manifiesto para manejar los permisos asociados con cada solicitud; la aplicación Inicio leerá los recursos para obtener el nombre de la aplicación y el icono; el servidor
 del sistema leerá los recursos por diversos motivos (p.ej. para mostrar notificaciones); y por supuesto los archivos de recursos son obviamente utilizados por la propia
 aplicación.
