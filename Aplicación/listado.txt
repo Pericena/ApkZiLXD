@@ -1,0 +1,16 @@
+Listado de rutas de carpetas
+El n£mero de serie del volumen es 00000200 286A:7640
+C:.
+|   ApkZiLXD.exe
+|   listado.txt
+|   
+\---Tools
+    +---other
+    |       zipalign.exe
+    |       
+    +---Proyectos-apk
+    |       App.apk
+    |       
+    \---Proyectos-apk-firmada
+
+            
