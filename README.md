@@ -1,6 +1,6 @@
 # ApkZiLXD
 Optimizar las aplicaciones .apk
-https://www.lpericena.tk/2018/12/ApkZiLXD.html
+https://lpericena.blogspot.com/2018/12/ApkZiLXD.html
 #### Descargar https://github.com/Pericena/ApkZiLXD/blob/master/Descargar/ApkZiLXD.zip
 
 El programa que usaremos es zipalign.
